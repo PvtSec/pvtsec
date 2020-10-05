@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://camo.githubusercontent.com/9f46d5857b580d25d314a642297a3d0de58204c1/687474703a2f2f7061796d656e74627578696e6469612e636f6d2f6173736574732f696d616765732f6c6f676f2e706e67" align="center"/>
+ <img width="100px" src="https://raw.githubusercontent.com/PvtSec/pvtsec.github.io/master/logo.png" align="center"/>
  <h1 align="center">PvtSec</h1>
  <p align="center">"The future will be weird" — Elon Musk</p>
 </p>
