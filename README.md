@@ -1,7 +1,6 @@
 <p align="center">
- <img width="70px" src="https://pvtsec.github.io/dist/images/logo.svg" align="center"/>
+<!--  <img width="70px" src="" align="center"/> -->
  <h1 align="center">PvtSec</h1>
- <p align="center">"The future will be weird" — Elon Musk</p>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Most used-Python-blue.svg"/>
