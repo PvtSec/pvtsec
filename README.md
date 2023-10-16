@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/Learning-Python-green.svg"/>
 <img src="https://img.shields.io/badge/Target for-OSCP-red.svg"/>
 <br>
-<img src="https://img.shields.io/badge/Introvert-Yes-green.svg"/>
 </p>
 <br>
 <p align="center">
