@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Most used-Python-blue.svg"/>
 <img src="https://img.shields.io/badge/Learning-Python-green.svg"/>
-<img src="https://img.shields.io/badge/Target for-OSCP-red.svg"/>
+<!-- <img src="https://img.shields.io/badge/Target for-OSCP-red.svg"/> -->
 <br>
 </p>
 <br>
